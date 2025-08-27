@@ -1,35 +1,6 @@
 # yamanote-hoikuen-faq
 <!-- FAQ｜しもごおり山の手保育園：ご利用に関するFAQ（公式サブページ） -->
 <section id="faq-usage" lang="ja">
-  <style>
-    :root{
-      --brand-green:#009844;   /* 園カラーのグリーン */
-      --brand-yellow:#ffd93b;  /* アクセントの黄色 */
-      --brand-ink:#1a1a1a;     /* 本文文字色 */
-      --brand-muted:#555;      /* 補足文字色 */
-      --surface:#ffffff;       /* 白背景 */
-      --surface-alt:#f7fdf9;   /* ページ下地の淡グリーン */
-      --border:#e3e8f0;
-      --chip-bg:#eef8f1;
-      --chip-ink:#134e2a;
-    }
-    #faq-usage{font-family:"Noto Sans JP",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background:var(--surface-alt);padding:40px 20px}
-    #faq-usage .container{max-width:960px;margin:auto;color:var(--brand-ink)}
-    #faq-usage .page-head{background:var(--surface);border-radius:18px;padding:24px;border:2px solid var(--brand-green);box-shadow:0 3px 8px rgba(0,0,0,0.05);margin-bottom:24px}
-    #faq-usage h1{font-size:1.7rem;margin:0 0 10px;color:var(--brand-green);border-bottom:3px solid var(--brand-yellow);display:inline-block;padding-bottom:3px;letter-spacing:.02em}
-    #faq-usage p.lead{font-size:1.05rem;line-height:1.8;margin:0 0 12px}
-    #faq-usage .policy{background:#f6fbf8;border-left:6px solid var(--brand-green);padding:16px 18px;margin-top:18px;border-radius:12px}
-    #faq-usage .policy strong{color:var(--brand-green)}
-    #faq-usage h3.cat{font-size:1.2rem;margin:30px 0 14px;color:var(--brand-green);border-bottom:2px solid var(--brand-yellow);padding-bottom:4px}
-    #faq-usage details{border:1px solid var(--border);border-radius:12px;padding:12px 14px;margin:12px 0;background:var(--surface);transition:border-color .2s,background .2s}
-    #faq-usage details[open]{border-color:#c9d7ee;background:#fbfdff}
-    #faq-usage details summary{cursor:pointer;font-weight:700;list-style:none}
-    #faq-usage details summary::-webkit-details-marker{display:none}
-    #faq-usage .a{margin:8px 0 4px}
-    #faq-usage .muted{color:var(--brand-muted)}
-    #faq-usage .chip{display:inline-block;font-size:.78rem;border:1px solid #bfe5c9;padding:2px 8px;border-radius:999px;margin:6px 6px 0 0;background:var(--chip-bg);color:var(--chip-ink)}
-  </style>
-
   <div class="container">
 
     <!-- ヘッダー -->
