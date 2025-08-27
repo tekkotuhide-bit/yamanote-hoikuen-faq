@@ -1,4 +1,4 @@
-# yamanote-hoikuen-faq[!-- FAQ｜しもごおり山の手保育園：ご利用に関するFAQv4.html](https://github.com/user-attachments/files/22014282/--.FAQ.FAQv4.html)
+# yamanote-hoikuen-faq
 <!-- FAQ｜しもごおり山の手保育園：ご利用に関するFAQ（公式サブページ） -->
 <section id="faq-usage" lang="ja">
   <style>
